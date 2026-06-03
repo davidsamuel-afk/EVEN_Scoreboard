@@ -1,0 +1,759 @@
+{
+  "exported": "2026-06-03T13:02:07.575Z",
+  "auth": {
+    "users": [
+      {
+        "id": "admin-0",
+        "username": "admin",
+        "hash": "f1d88224d744a44a5e7b5c2511645fa00aacc6059ba9366533205ae943173ac5",
+        "role": "admin",
+        "created": 1780399614069
+      },
+      {
+        "id": "v-1780414257999",
+        "username": "IS Login",
+        "hash": "da6e2f539726fabd1f8cd7c9469a22b36769137975b28abc65fe2dc29e659b77",
+        "role": "viewer",
+        "created": 1780414257999
+      }
+    ],
+    "sessions": {}
+  },
+  "scoreboard": {
+    "daily": [
+      {
+        "name": "Abhishek Kumawat",
+        "zone": "NORTH",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Ankit Raj",
+        "zone": "NORTH",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Ankita Chandra",
+        "zone": "NORTH",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Ashik Kumar P",
+        "zone": "NORTH",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "chandan.k",
+        "zone": "NORTH",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Deepam Mahendra Patel",
+        "zone": "NORTH",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Harshita Goyal",
+        "zone": "NORTH",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Mohammed Faisal",
+        "zone": "NORTH",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Prerona",
+        "zone": "NORTH",
+        "payments": 53366,
+        "activations": 0,
+        "photo_url": "https://drive.google.com/file/d/1plcuH7gTgbJKxxZl4M0ldXeYHoF1yw8e/view?usp=sharing"
+      },
+      {
+        "name": "Riya Rai",
+        "zone": "NORTH",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Shashank Pandey",
+        "zone": "NORTH",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Tejas Suresh Shiyale",
+        "zone": "NORTH",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Akshay Kumar Rana",
+        "zone": "NORTH",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Animesh Kar",
+        "zone": "NORTH",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Ashwini",
+        "zone": "NORTH",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Bharathi Vyshalli",
+        "zone": "SOUTH",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Buddepu Ganesh",
+        "zone": "SOUTH",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Chandana R",
+        "zone": "SOUTH",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Deekshitha Rai G J",
+        "zone": "SOUTH",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Gandluru Satish Kumar",
+        "zone": "SOUTH",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Manohar Krishna Challagundla",
+        "zone": "SOUTH",
+        "payments": 27068,
+        "activations": 0,
+        "photo_url": "https://drive.google.com/file/d/1v9MqHQOW7nCBvMIQ2prt_qH-lcG1RLbd/view?usp=sharing"
+      },
+      {
+        "name": "Monisha",
+        "zone": "SOUTH",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Nagulapalli Vineeth",
+        "zone": "SOUTH",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Patchipulusu Sunil",
+        "zone": "SOUTH",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Sakina Sharrif",
+        "zone": "SOUTH",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Shashikala",
+        "zone": "SOUTH",
+        "payments": 69051,
+        "activations": 0,
+        "photo_url": "https://drive.google.com/file/d/1yFEacy6BvyN0JFnZmntXnrjZRJ4Utkcq/view?usp=sharing"
+      },
+      {
+        "name": "Shawn Nikhil sumitra",
+        "zone": "SOUTH",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Teja Reddy",
+        "zone": "SOUTH",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Thanuja K",
+        "zone": "SOUTH",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Velpula Teja",
+        "zone": "SOUTH",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Velugu Manoj Yadav",
+        "zone": "SOUTH",
+        "payments": 27078,
+        "activations": 0,
+        "photo_url": "https://drive.google.com/file/d/1STpk6fKZUuWEjxieYgFhscvzje_CKorv/view?usp=sharing"
+      },
+      {
+        "name": "Rahul gowda R",
+        "zone": "SOUTH",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Aman",
+        "zone": "WEST",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Aniket",
+        "zone": "WEST",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Archana Raju Mane",
+        "zone": "WEST",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Arya Sandeep Nirawane",
+        "zone": "WEST",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Jayraj Suhas Bansode",
+        "zone": "WEST",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Karan Pawar",
+        "zone": "WEST",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Mamta Lihare",
+        "zone": "WEST",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": "https://drive.google.com/file/d/1vqKo3A0_VLRM6Nn7cUjhEAE7Ms_yS48x/view?usp=sharing"
+      },
+      {
+        "name": "Nikhil Sambhaji Gaikwad",
+        "zone": "WEST",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "PAYAL Roy",
+        "zone": "WEST",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Purva Ramteke",
+        "zone": "WEST",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Ranajit Biswas",
+        "zone": "WEST",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Riya Praval Mukharji",
+        "zone": "WEST",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Safia Mariam",
+        "zone": "WEST",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Sagar Suresh Jalkote",
+        "zone": "WEST",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Sakshika Suman",
+        "zone": "WEST",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Sanket Londhe",
+        "zone": "WEST",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Sanmoy Banerjee",
+        "zone": "WEST",
+        "payments": 23077,
+        "activations": 0,
+        "photo_url": "https://drive.google.com/file/d/16xeH-CquGn9kv9kaEsVPfkSltmgGz0HH/view?usp=sharing"
+      },
+      {
+        "name": "Udit Pandey",
+        "zone": "WEST",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Vrushab",
+        "zone": "WEST",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "TEJASVINI",
+        "zone": "WEST",
+        "payments": 32093,
+        "activations": 0,
+        "photo_url": "https://drive.google.com/file/d/1iEyqPrgGQbAWNFz3RifgqxipryG8Iw0a/view?usp=sharing"
+      }
+    ],
+    "weekly": [
+      {
+        "name": "Abhishek Kumawat",
+        "zone": "NORTH",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Ankit Raj",
+        "zone": "NORTH",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Ankita Chandra",
+        "zone": "NORTH",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Ashik Kumar P",
+        "zone": "NORTH",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "chandan.k",
+        "zone": "NORTH",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Deepam Mahendra Patel",
+        "zone": "NORTH",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Harshita Goyal",
+        "zone": "NORTH",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Mohammed Faisal",
+        "zone": "NORTH",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Prerona",
+        "zone": "NORTH",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": "https://drive.google.com/file/d/1plcuH7gTgbJKxxZl4M0ldXeYHoF1yw8e/view?usp=sharing"
+      },
+      {
+        "name": "Riya Rai",
+        "zone": "NORTH",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Shashank Pandey",
+        "zone": "NORTH",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Tejas Suresh Shiyale",
+        "zone": "NORTH",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Akshay Kumar Rana",
+        "zone": "NORTH",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Animesh Kar",
+        "zone": "NORTH",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Ashwini",
+        "zone": "NORTH",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Bharathi Vyshalli",
+        "zone": "SOUTH",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Buddepu Ganesh",
+        "zone": "SOUTH",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Chandana R",
+        "zone": "SOUTH",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Deekshitha Rai G J",
+        "zone": "SOUTH",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Gandluru Satish Kumar",
+        "zone": "SOUTH",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Manohar Krishna Challagundla",
+        "zone": "SOUTH",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": "https://drive.google.com/file/d/1v9MqHQOW7nCBvMIQ2prt_qH-lcG1RLbd/view?usp=sharing"
+      },
+      {
+        "name": "Monisha",
+        "zone": "SOUTH",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Nagulapalli Vineeth",
+        "zone": "SOUTH",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Patchipulusu Sunil",
+        "zone": "SOUTH",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Sakina Sharrif",
+        "zone": "SOUTH",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Shashikala",
+        "zone": "SOUTH",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": "https://drive.google.com/file/d/1yFEacy6BvyN0JFnZmntXnrjZRJ4Utkcq/view?usp=sharing"
+      },
+      {
+        "name": "Shawn Nikhil sumitra",
+        "zone": "SOUTH",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Teja Reddy",
+        "zone": "SOUTH",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Thanuja K",
+        "zone": "SOUTH",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Velpula Teja",
+        "zone": "SOUTH",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Velugu Manoj Yadav",
+        "zone": "SOUTH",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": "https://drive.google.com/file/d/1STpk6fKZUuWEjxieYgFhscvzje_CKorv/view?usp=sharing"
+      },
+      {
+        "name": "Rahul gowda R",
+        "zone": "SOUTH",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Aman",
+        "zone": "WEST",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Aniket",
+        "zone": "WEST",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Archana Raju Mane",
+        "zone": "WEST",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Arya Sandeep Nirawane",
+        "zone": "WEST",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Jayraj Suhas Bansode",
+        "zone": "WEST",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Karan Pawar",
+        "zone": "WEST",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Mamta Lihare",
+        "zone": "WEST",
+        "payments": 53924,
+        "activations": 0,
+        "photo_url": "https://drive.google.com/file/d/1vqKo3A0_VLRM6Nn7cUjhEAE7Ms_yS48x/view?usp=sharing"
+      },
+      {
+        "name": "Nikhil Sambhaji Gaikwad",
+        "zone": "WEST",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "PAYAL Roy",
+        "zone": "WEST",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Purva Ramteke",
+        "zone": "WEST",
+        "payments": 24619,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Ranajit Biswas",
+        "zone": "WEST",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Riya Praval Mukharji",
+        "zone": "WEST",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Safia Mariam",
+        "zone": "WEST",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Sagar Suresh Jalkote",
+        "zone": "WEST",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Sakshika Suman",
+        "zone": "WEST",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Sanket Londhe",
+        "zone": "WEST",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Sanmoy Banerjee",
+        "zone": "WEST",
+        "payments": 28740,
+        "activations": 0,
+        "photo_url": "https://drive.google.com/file/d/16xeH-CquGn9kv9kaEsVPfkSltmgGz0HH/view?usp=sharing"
+      },
+      {
+        "name": "Udit Pandey",
+        "zone": "WEST",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Vrushab",
+        "zone": "WEST",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "TEJASVINI",
+        "zone": "WEST",
+        "payments": 71819,
+        "activations": 0,
+        "photo_url": "https://drive.google.com/file/d/1tZtfzx-OHWPWfhW0WblLGXdv4YUUnLwZ/view?usp=sharing"
+      }
+    ],
+    "meta": {
+      "updated": "3 Jun, 06:31 pm"
+    }
+  }
+}
