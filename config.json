@@ -1,0 +1,2313 @@
+{
+  "exported": "2026-06-08T14:43:59.543Z",
+  "auth": {
+    "users": [
+      {
+        "id": "admin-0",
+        "username": "admin",
+        "hash": "f1d88224d744a44a5e7b5c2511645fa00aacc6059ba9366533205ae943173ac5",
+        "role": "admin",
+        "created": 1780399614069
+      },
+      {
+        "id": "v-1780414257999",
+        "username": "IS Login",
+        "hash": "da6e2f539726fabd1f8cd7c9469a22b36769137975b28abc65fe2dc29e659b77",
+        "role": "viewer",
+        "created": 1780414257999
+      }
+    ],
+    "sessions": {}
+  },
+  "scoreboard": {
+    "daily": [
+      {
+        "name": "Abhishek Kumawat",
+        "zone": "North",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Ankit Raj",
+        "zone": "North",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Ankita Chandra",
+        "zone": "North",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Ashik Kumar P",
+        "zone": "North",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "chandan.k",
+        "zone": "North",
+        "role": "IS",
+        "payments": 13835,
+        "activations": 0,
+        "photo_url": "https://drive.google.com/file/d/13N1ZgCR_MmGF2b0W86EVzGAe4FC3c-Z0/view?usp=sharing"
+      },
+      {
+        "name": "Deepam Mahendra Patel",
+        "zone": "North",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Harshita Goyal",
+        "zone": "North",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Mohammed Faisal",
+        "zone": "North",
+        "role": "IS",
+        "payments": 20260,
+        "activations": 0,
+        "photo_url": "https://drive.google.com/file/d/1vbR8VrOTxGhsRa-gk_JIVacyw97wJ2NB/view?usp=sharing"
+      },
+      {
+        "name": "Prerona",
+        "zone": "North",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": "https://drive.google.com/file/d/1plcuH7gTgbJKxxZl4M0ldXeYHoF1yw8e/view?usp=sharing"
+      },
+      {
+        "name": "Riya Rai",
+        "zone": "North",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Shashank Pandey",
+        "zone": "North",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": "https://drive.google.com/file/d/1xeBN4jxFjRvgCf5W5PJ5s-XkB-iM4qkl/view?usp=sharing"
+      },
+      {
+        "name": "Tejas Suresh Shiyale",
+        "zone": "North",
+        "role": "IS",
+        "payments": 23900,
+        "activations": 0,
+        "photo_url": "https://drive.google.com/file/d/1JhCq7qwcpYs3xsN9PORv3RJIArzC7biL/view?usp=sharing"
+      },
+      {
+        "name": "Akshay Kumar Rana",
+        "zone": "North",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Animesh Kar",
+        "zone": "North",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Ashwini",
+        "zone": "North",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Bharathi Vyshalli",
+        "zone": "South",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Buddepu Ganesh",
+        "zone": "South",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Chandana R",
+        "zone": "South",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Deekshitha Rai G J",
+        "zone": "South",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Gandluru Satish Kumar",
+        "zone": "South",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Manohar Krishna Challagundla",
+        "zone": "South",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": "https://drive.google.com/file/d/1v9MqHQOW7nCBvMIQ2prt_qH-lcG1RLbd/view?usp=sharing"
+      },
+      {
+        "name": "Monisha",
+        "zone": "South",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Nagulapalli Vineeth",
+        "zone": "South",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Patchipulusu Sunil",
+        "zone": "South",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": "https://drive.google.com/file/d/1cnPhZ_4t2LfOdegyzMcRWIB7fe-xD2XH/view?usp=sharing"
+      },
+      {
+        "name": "Sakina Sharrif",
+        "zone": "South",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Shashikala",
+        "zone": "South",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": "https://drive.google.com/file/d/1yFEacy6BvyN0JFnZmntXnrjZRJ4Utkcq/view?usp=sharing"
+      },
+      {
+        "name": "Shawn Nikhil sumitra",
+        "zone": "South",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Teja Reddy",
+        "zone": "South",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Thanuja K",
+        "zone": "South",
+        "role": "IS",
+        "payments": 127876,
+        "activations": 0,
+        "photo_url": "https://drive.google.com/file/d/1M3C1kXHAKyNu5eApiZEa4gXplf4inMxJ/view?usp=sharing"
+      },
+      {
+        "name": "Velpula Teja",
+        "zone": "South",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Velugu Manoj Yadav",
+        "zone": "South",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": "https://drive.google.com/file/d/1STpk6fKZUuWEjxieYgFhscvzje_CKorv/view?usp=sharing"
+      },
+      {
+        "name": "Rahul gowda R",
+        "zone": "South",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Aman",
+        "zone": "West",
+        "role": "IS",
+        "payments": 32093,
+        "activations": 0,
+        "photo_url": "https://drive.google.com/file/d/1TN379KJO3lLQcCvkSCs7Qdgo9i2dsbxs/view?usp=sharing"
+      },
+      {
+        "name": "Aniket",
+        "zone": "West",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Archana Raju Mane",
+        "zone": "West",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Arya Sandeep Nirawane",
+        "zone": "West",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Jayraj Suhas Bansode",
+        "zone": "West",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Karan Pawar",
+        "zone": "West",
+        "role": "IS",
+        "payments": 23077,
+        "activations": 0,
+        "photo_url": "https://drive.google.com/file/d/1H-ZzxXoq18CjSk-1LA0eXsmUclP3Z-zb/view?usp=sharing"
+      },
+      {
+        "name": "Mamta Lihare",
+        "zone": "West",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": "https://drive.google.com/file/d/1vqKo3A0_VLRM6Nn7cUjhEAE7Ms_yS48x/view?usp=sharing"
+      },
+      {
+        "name": "Nikhil Sambhaji Gaikwad",
+        "zone": "West",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "PAYAL Roy",
+        "zone": "West",
+        "role": "IS",
+        "payments": 23077,
+        "activations": 0,
+        "photo_url": "https://drive.google.com/file/d/1piqglGvecc_238RaGVN_VLxFLctx76EF/view?usp=sharing"
+      },
+      {
+        "name": "Purva Ramteke",
+        "zone": "West",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Ranajit Biswas",
+        "zone": "West",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Riya Praval Mukharji",
+        "zone": "West",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Safia Mariam",
+        "zone": "West",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Sagar Suresh Jalkote",
+        "zone": "West",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Sakshika Suman",
+        "zone": "West",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Sanket Londhe",
+        "zone": "West",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Sanmoy Banerjee",
+        "zone": "West",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": "https://drive.google.com/file/d/16xeH-CquGn9kv9kaEsVPfkSltmgGz0HH/view?usp=sharing"
+      },
+      {
+        "name": "Udit Pandey",
+        "zone": "West",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Vrushab",
+        "zone": "West",
+        "role": "IS",
+        "payments": 53866,
+        "activations": 0,
+        "photo_url": "https://drive.google.com/file/d/197xpZF_eoehpcZDaYPg8oPp_OQD8aaul/view?usp=sharing"
+      },
+      {
+        "name": "TEJASVINI",
+        "zone": "West",
+        "role": "IS",
+        "payments": 19819,
+        "activations": 0,
+        "photo_url": "https://drive.google.com/file/d/1tZtfzx-OHWPWfhW0WblLGXdv4YUUnLwZ/view?usp=sharing"
+      },
+      {
+        "name": "Abhay Kumar Mishra",
+        "zone": "South",
+        "role": "RM",
+        "payments": 15215,
+        "activations": 0,
+        "photo_url": "https://drive.google.com/file/d/1I4RA3U9_KDHG_6EgdDkdk7aIFMPIgLqb/view?usp=sharing"
+      },
+      {
+        "name": "Amit Wali",
+        "zone": "South",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Bharath S Kerakalamatti",
+        "zone": "South",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Somanath Shankar Shegunshi",
+        "zone": "South",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "syed musaddiq",
+        "zone": "South",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Vinay",
+        "zone": "South",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Athik Ahmed R",
+        "zone": "South",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Prem Kumar",
+        "zone": "South",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Sanjay Kumara",
+        "zone": "South",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Abdullah Saad Abdul Rahman",
+        "zone": "South",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Akshath singh j",
+        "zone": "South",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Manohara M",
+        "zone": "South",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Upendra Kumar",
+        "zone": "South",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Chandan L",
+        "zone": "South",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Satish Kumar",
+        "zone": "South",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Dhananjay M",
+        "zone": "South",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Thyarappa Gari Sreekanth",
+        "zone": "South",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "SURESH S",
+        "zone": "South",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Madhusudhan",
+        "zone": "South",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "KUNAPALLI PRUDHVI ROYAL",
+        "zone": "South",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Shaik Bajit Vali",
+        "zone": "South",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "a surya teja",
+        "zone": "South",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "SARIDE ASHOK",
+        "zone": "South",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Vijay rsvg kumar",
+        "zone": "South",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Dileep Kumar Kamatam",
+        "zone": "South",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "CHANDEESHWAR.J",
+        "zone": "South",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Gogula nagaraju",
+        "zone": "South",
+        "role": "RM",
+        "payments": 127876,
+        "activations": 0,
+        "photo_url": "https://drive.google.com/file/d/1NC1KEEBy_fARFg0dRXwOnRHR76QmBMMm/view?usp=sharing"
+      },
+      {
+        "name": "Padigala Sai Prathap",
+        "zone": "South",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": "https://drive.google.com/file/d/1K64DIqMTIDM9UBhQyHLu1IXRYnsazYM4/view?usp=sharing"
+      },
+      {
+        "name": "Janegala Shiva sai",
+        "zone": "South",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Rakesh Chary Pullimamidi",
+        "zone": "South",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Sannamsetti Devi Prasad",
+        "zone": "South",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": "https://drive.google.com/file/d/1dSt1-rbXH6El0cBfuhDAuDLNxu5gprGU/view?usp=sharing"
+      },
+      {
+        "name": "Amit Gharde",
+        "zone": "West",
+        "role": "RM",
+        "payments": 23077,
+        "activations": 0,
+        "photo_url": "https://drive.google.com/file/d/1xsx4DOfcssJHPD2ms0fS8WU51Js7Kesi/view?usp=sharing"
+      },
+      {
+        "name": "Hemant Pantmallu",
+        "zone": "West",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Navdeep Saxena",
+        "zone": "West",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Pranay Tarachand Kalbande",
+        "zone": "West",
+        "role": "RM",
+        "payments": 32093,
+        "activations": 0,
+        "photo_url": "https://drive.google.com/file/d/1Uhp22mhcymUQRzCCmJ2YKdndmpDiZna_/view?usp=sharing"
+      },
+      {
+        "name": "Saurabh bawankar",
+        "zone": "West",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Vishnu Maruti Waghmare",
+        "zone": "West",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Akash Bade",
+        "zone": "West",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Ayush Kamble",
+        "zone": "West",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Yallaling Ramchandra Tupsamindar",
+        "zone": "West",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Janak Jumde",
+        "zone": "West",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Krishna Salunkhe",
+        "zone": "West",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Ketan Pawar",
+        "zone": "West",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Aniket Mukesh Tamchikar",
+        "zone": "West",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Abhishek Salte",
+        "zone": "West",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Akash Dattatray Daswant",
+        "zone": "West",
+        "role": "RM",
+        "payments": 23077,
+        "activations": 0,
+        "photo_url": "https://drive.google.com/file/d/1sHqNhH0e9G4LtDDeEVC7fbsHN27nprfT/view?usp=sharing"
+      },
+      {
+        "name": "Mohd Faizaan Mohd Fahim Shaikh",
+        "zone": "West",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Pratik Dilip Patil",
+        "zone": "West",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Santosh kumar sharma",
+        "zone": "West",
+        "role": "RM",
+        "payments": 53866,
+        "activations": 0,
+        "photo_url": "https://drive.google.com/file/d/1QCPE7604ldhU7meNFfEgqwaQFtgoo0Iv/view?usp=sharing"
+      },
+      {
+        "name": "Amol Chhagan pande",
+        "zone": "West",
+        "role": "RM",
+        "payments": 19819,
+        "activations": 0,
+        "photo_url": "https://drive.google.com/file/d/1Zs8fLTaCS3CwvgKZNiEGcNvQ8yTNazKh/view?usp=sharing"
+      },
+      {
+        "name": "Jacky baswal",
+        "zone": "West",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Pramod Yadav",
+        "zone": "West",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Mohammed Nafees Rais Ahmed Ansari",
+        "zone": "West",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Priyesh Kadam",
+        "zone": "West",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": "https://drive.google.com/file/d/1BSb451mQLnPmsPDnR7KslRvJE8-mAryW/view?usp=sharing"
+      },
+      {
+        "name": "Ratnesh Hari Prasad Tiwari",
+        "zone": "West",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Rishabh Kishore Patel,",
+        "zone": "West",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Shaikh Ahmed",
+        "zone": "West",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Sujeet Lad",
+        "zone": "West",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Narendra Samrit",
+        "zone": "West",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Sahil Gedam",
+        "zone": "West",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Vedant Rekhade",
+        "zone": "West",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Harpraveen delhi",
+        "zone": "North",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Rahul agraval",
+        "zone": "North",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Rohit Jha",
+        "zone": "North",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Shivam Kumar",
+        "zone": "North",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Anubhav Mathur",
+        "zone": "North",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Ashim Das",
+        "zone": "North",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Gourav Lakhani",
+        "zone": "North",
+        "role": "RM",
+        "payments": 20260,
+        "activations": 0,
+        "photo_url": "https://drive.google.com/file/d/1ErD-ZdY00caR6R2_kvJhn3sL0Ommp-n9/view?usp=sharing"
+      },
+      {
+        "name": "Harsh Bhardwaj",
+        "zone": "North",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Jitender",
+        "zone": "North",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Suraj delhi",
+        "zone": "North",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Syed Misbahul Rashdeen",
+        "zone": "North",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Vijender Kumar",
+        "zone": "North",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Dhruv Pawan Mishra",
+        "zone": "North",
+        "role": "RM",
+        "payments": 23900,
+        "activations": 0,
+        "photo_url": "https://drive.google.com/file/d/1uEMqeeawoMJqEJAhh6DnPGkx_fedWwYr/view?usp=sharing"
+      },
+      {
+        "name": "Hadish",
+        "zone": "North",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Laveesh Yadhuvanshi",
+        "zone": "North",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Manav",
+        "zone": "North",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "OM PRAKASH",
+        "zone": "North",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Quasim",
+        "zone": "North",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "SHIVA VERMA",
+        "zone": "North",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Subhash Yadav",
+        "zone": "North",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": "https://drive.google.com/file/d/1MnXY44n1hWBevPDjvQKUtiO12ipKL5X1/view?usp=sharing"
+      },
+      {
+        "name": "Deepak",
+        "zone": "North",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Kumar Shivam delhi",
+        "zone": "North",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Paras",
+        "zone": "North",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Rohitpal",
+        "zone": "North",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Abhisekh kumar",
+        "zone": "North",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Dipesh",
+        "zone": "North",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Akshay Sharma",
+        "zone": "North",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Deepak Jha",
+        "zone": "North",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Keshav Sachdeva",
+        "zone": "North",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      }
+    ],
+    "weekly": [
+      {
+        "name": "Abhishek Kumawat",
+        "zone": "North",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Ankit Raj",
+        "zone": "North",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Ankita Chandra",
+        "zone": "North",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Ashik Kumar P",
+        "zone": "North",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "chandan.k",
+        "zone": "North",
+        "role": "IS",
+        "payments": 13835,
+        "activations": 0,
+        "photo_url": "https://drive.google.com/file/d/13N1ZgCR_MmGF2b0W86EVzGAe4FC3c-Z0/view?usp=sharing"
+      },
+      {
+        "name": "Deepam Mahendra Patel",
+        "zone": "North",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Harshita Goyal",
+        "zone": "North",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Mohammed Faisal",
+        "zone": "North",
+        "role": "IS",
+        "payments": 20260,
+        "activations": 0,
+        "photo_url": "https://drive.google.com/file/d/1vbR8VrOTxGhsRa-gk_JIVacyw97wJ2NB/view?usp=sharing"
+      },
+      {
+        "name": "Prerona",
+        "zone": "North",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": "https://drive.google.com/file/d/1plcuH7gTgbJKxxZl4M0ldXeYHoF1yw8e/view?usp=sharing"
+      },
+      {
+        "name": "Riya Rai",
+        "zone": "North",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Shashank Pandey",
+        "zone": "North",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": "https://drive.google.com/file/d/1xeBN4jxFjRvgCf5W5PJ5s-XkB-iM4qkl/view?usp=sharing"
+      },
+      {
+        "name": "Tejas Suresh Shiyale",
+        "zone": "North",
+        "role": "IS",
+        "payments": 23900,
+        "activations": 0,
+        "photo_url": "https://drive.google.com/file/d/1JhCq7qwcpYs3xsN9PORv3RJIArzC7biL/view?usp=sharing"
+      },
+      {
+        "name": "Akshay Kumar Rana",
+        "zone": "North",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Animesh Kar",
+        "zone": "North",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Ashwini",
+        "zone": "North",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Bharathi Vyshalli",
+        "zone": "South",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Buddepu Ganesh",
+        "zone": "South",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Chandana R",
+        "zone": "South",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Deekshitha Rai G J",
+        "zone": "South",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Gandluru Satish Kumar",
+        "zone": "South",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Manohar Krishna Challagundla",
+        "zone": "South",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": "https://drive.google.com/file/d/1v9MqHQOW7nCBvMIQ2prt_qH-lcG1RLbd/view?usp=sharing"
+      },
+      {
+        "name": "Monisha",
+        "zone": "South",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Nagulapalli Vineeth",
+        "zone": "South",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Patchipulusu Sunil",
+        "zone": "South",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": "https://drive.google.com/file/d/1cnPhZ_4t2LfOdegyzMcRWIB7fe-xD2XH/view?usp=sharing"
+      },
+      {
+        "name": "Sakina Sharrif",
+        "zone": "South",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Shashikala",
+        "zone": "South",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": "https://drive.google.com/file/d/1yFEacy6BvyN0JFnZmntXnrjZRJ4Utkcq/view?usp=sharing"
+      },
+      {
+        "name": "Shawn Nikhil sumitra",
+        "zone": "South",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Teja Reddy",
+        "zone": "South",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Thanuja K",
+        "zone": "South",
+        "role": "IS",
+        "payments": 127876,
+        "activations": 0,
+        "photo_url": "https://drive.google.com/file/d/1M3C1kXHAKyNu5eApiZEa4gXplf4inMxJ/view?usp=sharing"
+      },
+      {
+        "name": "Velpula Teja",
+        "zone": "South",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Velugu Manoj Yadav",
+        "zone": "South",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": "https://drive.google.com/file/d/1STpk6fKZUuWEjxieYgFhscvzje_CKorv/view?usp=sharing"
+      },
+      {
+        "name": "Rahul gowda R",
+        "zone": "South",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Aman",
+        "zone": "West",
+        "role": "IS",
+        "payments": 32093,
+        "activations": 0,
+        "photo_url": "https://drive.google.com/file/d/1TN379KJO3lLQcCvkSCs7Qdgo9i2dsbxs/view?usp=sharing"
+      },
+      {
+        "name": "Aniket",
+        "zone": "West",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Archana Raju Mane",
+        "zone": "West",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Arya Sandeep Nirawane",
+        "zone": "West",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Jayraj Suhas Bansode",
+        "zone": "West",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Karan Pawar",
+        "zone": "West",
+        "role": "IS",
+        "payments": 23077,
+        "activations": 0,
+        "photo_url": "https://drive.google.com/file/d/1H-ZzxXoq18CjSk-1LA0eXsmUclP3Z-zb/view?usp=sharing"
+      },
+      {
+        "name": "Mamta Lihare",
+        "zone": "West",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": "https://drive.google.com/file/d/1vqKo3A0_VLRM6Nn7cUjhEAE7Ms_yS48x/view?usp=sharing"
+      },
+      {
+        "name": "Nikhil Sambhaji Gaikwad",
+        "zone": "West",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "PAYAL Roy",
+        "zone": "West",
+        "role": "IS",
+        "payments": 23077,
+        "activations": 0,
+        "photo_url": "https://drive.google.com/file/d/1piqglGvecc_238RaGVN_VLxFLctx76EF/view?usp=sharing"
+      },
+      {
+        "name": "Purva Ramteke",
+        "zone": "West",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Ranajit Biswas",
+        "zone": "West",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Riya Praval Mukharji",
+        "zone": "West",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Safia Mariam",
+        "zone": "West",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Sagar Suresh Jalkote",
+        "zone": "West",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Sakshika Suman",
+        "zone": "West",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Sanket Londhe",
+        "zone": "West",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Sanmoy Banerjee",
+        "zone": "West",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": "https://drive.google.com/file/d/16xeH-CquGn9kv9kaEsVPfkSltmgGz0HH/view?usp=sharing"
+      },
+      {
+        "name": "Udit Pandey",
+        "zone": "West",
+        "role": "IS",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Vrushab",
+        "zone": "West",
+        "role": "IS",
+        "payments": 53866,
+        "activations": 0,
+        "photo_url": "https://drive.google.com/file/d/197xpZF_eoehpcZDaYPg8oPp_OQD8aaul/view?usp=sharing"
+      },
+      {
+        "name": "TEJASVINI",
+        "zone": "West",
+        "role": "IS",
+        "payments": 19819,
+        "activations": 0,
+        "photo_url": "https://drive.google.com/file/d/1tZtfzx-OHWPWfhW0WblLGXdv4YUUnLwZ/view?usp=sharing"
+      },
+      {
+        "name": "Abhay Kumar Mishra",
+        "zone": "South",
+        "role": "RM",
+        "payments": 15215,
+        "activations": 0,
+        "photo_url": "https://drive.google.com/file/d/1I4RA3U9_KDHG_6EgdDkdk7aIFMPIgLqb/view?usp=sharing"
+      },
+      {
+        "name": "Amit Wali",
+        "zone": "South",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Bharath S Kerakalamatti",
+        "zone": "South",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Somanath Shankar Shegunshi",
+        "zone": "South",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "syed musaddiq",
+        "zone": "South",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Vinay",
+        "zone": "South",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Athik Ahmed R",
+        "zone": "South",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Prem Kumar",
+        "zone": "South",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Sanjay Kumara",
+        "zone": "South",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Abdullah Saad Abdul Rahman",
+        "zone": "South",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Akshath singh j",
+        "zone": "South",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Manohara M",
+        "zone": "South",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Upendra Kumar",
+        "zone": "South",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Chandan L",
+        "zone": "South",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Satish Kumar",
+        "zone": "South",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Dhananjay M",
+        "zone": "South",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Thyarappa Gari Sreekanth",
+        "zone": "South",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "SURESH S",
+        "zone": "South",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Madhusudhan",
+        "zone": "South",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "KUNAPALLI PRUDHVI ROYAL",
+        "zone": "South",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Shaik Bajit Vali",
+        "zone": "South",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "a surya teja",
+        "zone": "South",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "SARIDE ASHOK",
+        "zone": "South",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Vijay rsvg kumar",
+        "zone": "South",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Dileep Kumar Kamatam",
+        "zone": "South",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "CHANDEESHWAR.J",
+        "zone": "South",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Gogula nagaraju",
+        "zone": "South",
+        "role": "RM",
+        "payments": 127876,
+        "activations": 0,
+        "photo_url": "https://drive.google.com/file/d/1NC1KEEBy_fARFg0dRXwOnRHR76QmBMMm/view?usp=sharing"
+      },
+      {
+        "name": "Padigala Sai Prathap",
+        "zone": "South",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": "https://drive.google.com/file/d/1K64DIqMTIDM9UBhQyHLu1IXRYnsazYM4/view?usp=sharing"
+      },
+      {
+        "name": "Janegala Shiva sai",
+        "zone": "South",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Rakesh Chary Pullimamidi",
+        "zone": "South",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Sannamsetti Devi Prasad",
+        "zone": "South",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": "https://drive.google.com/file/d/1dSt1-rbXH6El0cBfuhDAuDLNxu5gprGU/view?usp=sharing"
+      },
+      {
+        "name": "Amit Gharde",
+        "zone": "West",
+        "role": "RM",
+        "payments": 23077,
+        "activations": 0,
+        "photo_url": "https://drive.google.com/file/d/1xsx4DOfcssJHPD2ms0fS8WU51Js7Kesi/view?usp=sharing"
+      },
+      {
+        "name": "Hemant Pantmallu",
+        "zone": "West",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Navdeep Saxena",
+        "zone": "West",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Pranay Tarachand Kalbande",
+        "zone": "West",
+        "role": "RM",
+        "payments": 32093,
+        "activations": 0,
+        "photo_url": "https://drive.google.com/file/d/1Uhp22mhcymUQRzCCmJ2YKdndmpDiZna_/view?usp=sharing"
+      },
+      {
+        "name": "Saurabh bawankar",
+        "zone": "West",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Vishnu Maruti Waghmare",
+        "zone": "West",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Akash Bade",
+        "zone": "West",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Ayush Kamble",
+        "zone": "West",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Yallaling Ramchandra Tupsamindar",
+        "zone": "West",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Janak Jumde",
+        "zone": "West",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Krishna Salunkhe",
+        "zone": "West",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Ketan Pawar",
+        "zone": "West",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Aniket Mukesh Tamchikar",
+        "zone": "West",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Abhishek Salte",
+        "zone": "West",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Akash Dattatray Daswant",
+        "zone": "West",
+        "role": "RM",
+        "payments": 23077,
+        "activations": 0,
+        "photo_url": "https://drive.google.com/file/d/1sHqNhH0e9G4LtDDeEVC7fbsHN27nprfT/view?usp=sharing"
+      },
+      {
+        "name": "Mohd Faizaan Mohd Fahim Shaikh",
+        "zone": "West",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Pratik Dilip Patil",
+        "zone": "West",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Santosh kumar sharma",
+        "zone": "West",
+        "role": "RM",
+        "payments": 53866,
+        "activations": 0,
+        "photo_url": "https://drive.google.com/file/d/1QCPE7604ldhU7meNFfEgqwaQFtgoo0Iv/view?usp=sharing"
+      },
+      {
+        "name": "Amol Chhagan pande",
+        "zone": "West",
+        "role": "RM",
+        "payments": 19819,
+        "activations": 0,
+        "photo_url": "https://drive.google.com/file/d/1Zs8fLTaCS3CwvgKZNiEGcNvQ8yTNazKh/view?usp=sharing"
+      },
+      {
+        "name": "Jacky baswal",
+        "zone": "West",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Pramod Yadav",
+        "zone": "West",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Mohammed Nafees Rais Ahmed Ansari",
+        "zone": "West",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Priyesh Kadam",
+        "zone": "West",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": "https://drive.google.com/file/d/1BSb451mQLnPmsPDnR7KslRvJE8-mAryW/view?usp=sharing"
+      },
+      {
+        "name": "Ratnesh Hari Prasad Tiwari",
+        "zone": "West",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Rishabh Kishore Patel,",
+        "zone": "West",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Shaikh Ahmed",
+        "zone": "West",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Sujeet Lad",
+        "zone": "West",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Narendra Samrit",
+        "zone": "West",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Sahil Gedam",
+        "zone": "West",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Vedant Rekhade",
+        "zone": "West",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Harpraveen delhi",
+        "zone": "North",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Rahul agraval",
+        "zone": "North",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Rohit Jha",
+        "zone": "North",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Shivam Kumar",
+        "zone": "North",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Anubhav Mathur",
+        "zone": "North",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Ashim Das",
+        "zone": "North",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Gourav Lakhani",
+        "zone": "North",
+        "role": "RM",
+        "payments": 20260,
+        "activations": 0,
+        "photo_url": "https://drive.google.com/file/d/1ErD-ZdY00caR6R2_kvJhn3sL0Ommp-n9/view?usp=sharing"
+      },
+      {
+        "name": "Harsh Bhardwaj",
+        "zone": "North",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Jitender",
+        "zone": "North",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Suraj delhi",
+        "zone": "North",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Syed Misbahul Rashdeen",
+        "zone": "North",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Vijender Kumar",
+        "zone": "North",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Dhruv Pawan Mishra",
+        "zone": "North",
+        "role": "RM",
+        "payments": 23900,
+        "activations": 0,
+        "photo_url": "https://drive.google.com/file/d/1uEMqeeawoMJqEJAhh6DnPGkx_fedWwYr/view?usp=sharing"
+      },
+      {
+        "name": "Hadish",
+        "zone": "North",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Laveesh Yadhuvanshi",
+        "zone": "North",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Manav",
+        "zone": "North",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "OM PRAKASH",
+        "zone": "North",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Quasim",
+        "zone": "North",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "SHIVA VERMA",
+        "zone": "North",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Subhash Yadav",
+        "zone": "North",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": "https://drive.google.com/file/d/1MnXY44n1hWBevPDjvQKUtiO12ipKL5X1/view?usp=sharing"
+      },
+      {
+        "name": "Deepak",
+        "zone": "North",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Kumar Shivam delhi",
+        "zone": "North",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Paras",
+        "zone": "North",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Rohitpal",
+        "zone": "North",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Abhisekh kumar",
+        "zone": "North",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Dipesh",
+        "zone": "North",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Akshay Sharma",
+        "zone": "North",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Deepak Jha",
+        "zone": "North",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      },
+      {
+        "name": "Keshav Sachdeva",
+        "zone": "North",
+        "role": "RM",
+        "payments": 0,
+        "activations": 0,
+        "photo_url": ""
+      }
+    ],
+    "meta": {
+      "updated": "8 Jun, 08:13 pm",
+      "updatedAt": "2026-06-08T14:43:56.793Z"
+    },
+    "zoneTotalsCSV": {
+      "byRole": {
+        "TOTAL": {
+          "North": 57995,
+          "South": 143091,
+          "West": 151932
+        }
+      }
+    }
+  }
+}
